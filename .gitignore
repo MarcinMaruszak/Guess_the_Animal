@@ -1,0 +1,24 @@
+# Project exclude paths
+/.gradle/
+/Guess the Animal/task/build/
+/Guess the Animal/task/out/
+/Guess the Animal/task/out/production/classes/
+/Guess the Animal/task/out/test/classes/
+/Topics/Binary search tree in Java/The depth of the nodes/out/
+/Topics/Binary search tree in Java/The depth of the nodes/out/production/classes/
+/Topics/Binary search tree in Java/The height of the tree/out/
+/Topics/Binary search tree in Java/The height of the tree/out/production/classes/
+/Topics/Binary search tree in Java/The in-order traversal/out/
+/Topics/Binary search tree in Java/The in-order traversal/out/production/classes/
+/Topics/Binary search tree in Java/Theory/out/
+/Topics/Binary search tree in Java/Theory/out/production/classes/
+/Topics/Trees in Java/A full binary tree/out/
+/Topics/Trees in Java/A full binary tree/out/production/classes/
+/Topics/Trees in Java/Finding the leaves of a tree/out/
+/Topics/Trees in Java/Finding the leaves of a tree/out/production/classes/
+/Topics/Trees in Java/The height of a tree (v1)/out/
+/Topics/Trees in Java/The height of a tree (v1)/out/production/classes/
+/Topics/Trees in Java/The height of a tree (v2)/out/
+/Topics/Trees in Java/The height of a tree (v2)/out/production/classes/
+/Topics/Trees in Java/Theory/out/
+/Topics/Trees in Java/Theory/out/production/classes/
